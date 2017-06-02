@@ -1,5 +1,5 @@
-# Codeigniter-with-angularjs-crud-operation
-This is the project with  basic CRUD operation is done .And Angularjs is used as front end and Codeigniter as backend
+# Codeigniter and angularjs crud operation
+This is the project with basic CRUD operation is done with the help of Angularjs as frontend and Codeigniter as backend.
 
 How to install and run the project?
 step 1: Download the zip file.
