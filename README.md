@@ -1,4 +1,4 @@
-	## Codeigniter-with-angularjs-crud-operation
+	## Codeigniter and angularjs CRUD operation
 
 
 	*This is the project with  basic CRUD operation is done and Angularjs is used as front end and Codeigniter as backend*
